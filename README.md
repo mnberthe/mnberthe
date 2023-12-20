@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Aws and Kubernetes.**
 
-- 🌱 I’m currently learning **Kubernetes.**
+- 🌱 I’m currently learning **GitOps.**
 
 
 <h3 align="left">Connect with me:</h3>
